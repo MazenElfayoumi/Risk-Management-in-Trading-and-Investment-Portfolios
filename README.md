@@ -32,7 +32,7 @@ This project focuses on implementing and optimizing various risk measures for tr
 
 1. **Clone the Repository**:
     ```bash
-    git clone https://github.com/yourusername/risk-management-portfolio.git
+    git clone https://github.com/MazenElfayoumi/risk-management-portfolio.git
     cd risk-management-portfolio
     ```
 
